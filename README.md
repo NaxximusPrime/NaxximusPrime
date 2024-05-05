@@ -17,8 +17,23 @@
   <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <!-- SQLite --> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=naxximusprime&theme=onedark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naxximusprime&theme=onedark&show_icons=true&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naxximusprime&theme=onedark&layout=compact" />
+</a>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxximusprime&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=naxximusprime&theme=onedark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naxximusprime&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [Most used Languages] --> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naxximusprime&theme=onedark&show_icons=true&locale=en&layout=compact" alt="naxximusprime" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naxximusprime&label=Profile%20views&color=0e75b6&style=flat" alt="naxximusprime" /> </p>
