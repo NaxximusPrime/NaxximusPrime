@@ -30,8 +30,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxximusprime&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=naxximusprime&theme=onedark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naxximusprime&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naxximusprime&label=Profile%20views&color=0e75b6&style=flat" alt="naxximusprime" /> </p>
